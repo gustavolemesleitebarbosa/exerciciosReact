@@ -1,6 +1,7 @@
 
 
 *
+!*.gitignore
 !*.js
 !*/
 !*.js
